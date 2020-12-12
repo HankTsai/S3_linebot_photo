@@ -1,7 +1,5 @@
-記得下載nrgok
+### 程式目標：用戶上傳圖片到line，我們就把他的照片傳回照s3上
 
-'''
-程式目標：用戶上傳圖片到line，我們就把他的照片傳回照s3上
 製作步驟：
 1.把line-bot-sdk的基本API複製近來
 2.告訴API中的handler收到圖片消息時
@@ -10,4 +8,3 @@
 5.將line_depvelop的channel取channel_acess_token放入程式
 6.啟用ngrok
 7.啟用chatbox，特過手機上傳照片
-'''
